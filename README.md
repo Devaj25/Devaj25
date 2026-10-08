@@ -1,16 +1,96 @@
-## Hi there 👋
+# Hi, I'm Devaj B R 👋
 
-<!--
-**Devaj25/Devaj25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech Artificial Intelligence Graduate | Full Stack Developer | AI/ML Enthusiast
 
-Here are some ideas to get you started:
+I'm a B.Tech Artificial Intelligence graduate from SRM Institute of Science and Technology with a strong interest in software development, full-stack applications, and applied AI/ML.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building practical projects that combine software engineering with artificial intelligence.
+
+---
+
+## 🚀 About Me
+
+- 🎓 B.Tech in Artificial Intelligence — SRM Institute of Science and Technology
+- 💻 Full Stack Development trained at KodNest
+- 🤖 Interested in AI/ML and intelligent applications
+- 🌱 Currently strengthening my skills in software development and problem solving
+- 📍 Based in Bengaluru, India
+- 💼 Open to software development and full-stack opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming
+- Python
+- Java
+- JavaScript
+- SQL
+
+### Frontend
+- HTML
+- CSS
+- React.js
+
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+
+### Database
+- MongoDB
+
+### AI / Machine Learning
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- BERT
+- Computer Vision
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Streamlit
+
+---
+
+## 📌 Featured Project
+
+### 🫀 Multi-Modal AI Framework for Cardiovascular Risk Prediction
+
+A hybrid deep learning system that combines retinal fundus image features with structured clinical data to predict cardiovascular disease risk.
+
+**Key components:**
+- Retinal fundus image processing
+- VGG16 feature extraction
+- AlexNet feature extraction
+- Clinical data preprocessing
+- Multi-modal feature fusion
+- Neural network classification
+- Model evaluation
+- Streamlit deployment
+
+**Technologies:** Python, TensorFlow, Keras, OpenCV, Scikit-learn, Streamlit
+
+---
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- Advanced Python
+- Backend Development
+- Full Stack Development
+- Machine Learning
+- Software Engineering Best Practices
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/devaj25)
+- 💻 [GitHub](https://github.com/Devaj25)
+
+---
+
+⭐ Thanks for visiting my profile!
