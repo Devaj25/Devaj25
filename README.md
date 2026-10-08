@@ -13,7 +13,6 @@ I enjoy building practical projects that combine software engineering with artif
 - 🎓 B.Tech in Artificial Intelligence — SRM Institute of Science and Technology
 - 💻 Full Stack Development trained at KodNest
 - 🤖 Interested in AI/ML and intelligent applications
-- 🌱 Currently strengthening my skills in software development and problem solving
 - 📍 Based in Bengaluru, India
 - 💼 Open to software development and full-stack opportunities
 
@@ -72,17 +71,6 @@ A hybrid deep learning system that combines retinal fundus image features with s
 - Streamlit deployment
 
 **Technologies:** Python, TensorFlow, Keras, OpenCV, Scikit-learn, Streamlit
-
----
-
-## 📚 Currently Learning
-
-- Data Structures & Algorithms
-- Advanced Python
-- Backend Development
-- Full Stack Development
-- Machine Learning
-- Software Engineering Best Practices
 
 ---
 
